@@ -3,5 +3,5 @@ Welcome to the BicycleTips github repositories. This is where the website's sour
 
 Be sure to [Visit BicycleTips.com](https://www.BicycleTips.com)
 
-Signed,
+Signed,  
 [Chris Hammond](https://www.chrishammond.com)
